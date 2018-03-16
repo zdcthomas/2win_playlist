@@ -1,5 +1,5 @@
 ---
-title: Static Comp Challenge 2
+title: Playlist
 ---
 
 ## Specification
