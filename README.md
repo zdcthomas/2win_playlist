@@ -23,4 +23,4 @@ You may NOT take liberties with the layout, but your creative license includes:
 
 ***
 
-![static-comp-challenge-2](/assets/images/static-comp-challenge-2.jpg)
+![static-comp-challenge-2](https://github.com/turingschool/front-end-curriculum/blob/gh-pages/assets/images/static-comp-challenge-2.jpg)
