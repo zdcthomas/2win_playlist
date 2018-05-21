@@ -1,0 +1,64 @@
+body {
+  margin: 0px;
+  border: 0px;
+}
+header {
+  background: grey;
+  display: flex;
+}
+
+nav {
+  display: flex;
+  justify-content: flex-start;
+  padding: 10px;
+}
+
+nav > div {
+  margin:10px;
+}
+
+.profile {
+  display: flex;
+  justify-content: flex-end;
+
+}
+
+.user {
+  display: flex;
+  justify-content: flex-end;
+
+}
+
+content {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  margin: 10px;
+
+}
+
+.banner {
+  background-image: url(https://www.stockvault.net/data/2011/10/30/127720/thumb16.jpg);
+  background-size: stretch;
+  background-repeat: no-repeat;
+  height: 50%;
+}
+date{
+  border: 7px;
+  color: grey;
+}
+
+url{
+  background: lightgrey;
+  padding: 4px;
+  margin: 4px;
+}
+
+.playlist{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: 10px;
+}
+
+
+
